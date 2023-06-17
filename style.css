@@ -1,0 +1,17 @@
+body {
+    background-color:lavenderblush;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+button {
+    background-color: deeppink;
+    color:white;
+    border-radius: 7px;
+    height:25px;
+}
+
+#camera {
+    width: 450px;
+    height: 450px;
+    border-style: dashed;
+}
